@@ -1,42 +1,42 @@
 # Tugas Besar Mata Kuliah Etika dan Hukum TIK Kelas TI-3B
 ## Materi :
 1. Pengertian cybercrime
-   - nama1
+   - Fadli
    - nama2
 
 2. pengaturan cybercrime
-   - nama3
+   - Idris
    - nama4
    - nama5
 
 3. jenis dan metode kejahatan
-   - nama6
+   - Frans
    - nama7
    - nama8
 
 4. teori cybercrime
-   - nama9
+   - Berlian
    - nama10
    - nama11
 
 5. kasus cybercrime di Indonesia dan negara lain
-   - nama12
+   - Atina
    - nama13
    - nama14
 
 6. penegakan hukum cybercrime di Indonesia
-   - nama15
+   - Dika
    - nama16
    - nama17
 
 7. perbandingan cybercrime Indonesia dgn negara lain (disertai tabel)
-   - nama18
+   - Dirga
    - nama19
    - nama20
    - nama21
 
 8. perlindungan hukum cybercrime
-   - nama22
+   - Tri
    - nama23
    - nama24
    - nama25
