@@ -5,44 +5,44 @@ Membuat buku tentang cybercrime
 ## Materi :
 **1. Pengertian cybercrime**
    - Fadli
-   - nama2
+   - Aditya
 
 **2. pengaturan cybercrime**
    - Idris
-   - nama4
-   - nama5
+   - Imron
+   - Andre
 
 **3. jenis dan metode kejahatan**
    - Frans
-   - nama7
-   - nama8
+   - Nadhifa
+   - Eko
 
 **4. teori cybercrime**
    - Berlian
-   - nama10
-   - nama11
+   - Gandha
+   - Tholib
 
 **5. kasus cybercrime di Indonesia dan negara lain**
    - Atina
-   - nama13
-   - nama14
+   - Andy
+   - Iqbal
 
 **6. penegakan hukum cybercrime di Indonesia**
    - Dika
-   - nama16
-   - nama17
+   - Angel
+   - Clara
 
 **7. perbandingan cybercrime Indonesia dgn negara lain (disertai tabel)**
    - Dirga
-   - nama19
-   - nama20
-   - nama21
+   - Devan
+   - Ananta
+   - Eri
 
 **8. perlindungan hukum cybercrime**
    - Tri
-   - nama23
-   - nama24
-   - nama25
+   - Bagus
+   - Beby
+   - Ryan
 
 ## Lampiran :
 1. UU yg mengatur
