@@ -7,27 +7,27 @@ Membuat buku tentang cybercrime
    - Fadli
    - Aditya
 
-**2. pengaturan cybercrime**
+**2. pengaturan cybercrime [Merged]**
    - Idris
    - Imron
    - Andre
 
-**3. jenis dan metode kejahatan**
+**3. jenis dan metode kejahatan [On Review]**
    - Frans
    - Nadhifa
    - Eko
 
-**4. teori cybercrime**
+**4. teori cybercrime [On Review]**
    - Berlian
    - Gandha
    - Tholib
 
-**5. kasus cybercrime di Indonesia dan negara lain**
+**5. kasus cybercrime di Indonesia dan negara lain [On Review]**
    - Atina
    - Andy
    - Iqbal
 
-**6. penegakan hukum cybercrime di Indonesia**
+**6. penegakan hukum cybercrime di Indonesia [On Review]**
    - Dika
    - Angel
    - Clara
@@ -38,7 +38,7 @@ Membuat buku tentang cybercrime
    - Ananta
    - Eri
 
-**8. perlindungan hukum cybercrime**
+**8. perlindungan hukum cybercrime [On Review]**
    - Tri
    - Bagus
    - Beby
