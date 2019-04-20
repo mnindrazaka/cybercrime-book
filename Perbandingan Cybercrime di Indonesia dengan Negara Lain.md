@@ -57,12 +57,19 @@ Beberapa negara lain yang maju juga masuk ke dalam ranking “Negara dengan Ting
 Negara Jerman menerima nilai tertinggi untuk serangan malware finansial dan China memiliki nilai tertinggi untuk serangan telnet sebagai negara dimana telnet berasal.
 
 Nilai tertinggi berdasarkan kategorinya :
+
 •	Persentase tertinggi dari infeksi malware ponsel – Bangladesh – 35.91% pengguna yang terkena
+
 •	Jumlah terbanyak dari serangan malware finansial – Germany – 3% pengguna yang terkena
+
 •	Persentase tertinggi dari infeksi malware komputer – Algeria – 32.41%
+
 •	Persentase tertinggi dari serangan telnet (by originating country) – China – 27.15%
+
 •	Persentase tertinggi dari serangan cryptominers – Uzbekistan – 14.23% pengguna yang terkena
+
 •	Kurangnya persiapan dari serangan cyber – Vietnam – 0.245 skor
+
 •	Undang-undang terkini yang paling buruk untuk keamanan cyber – Algeria – 1 pasal
 
 ## Kesimpulan
