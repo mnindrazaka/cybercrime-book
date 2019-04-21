@@ -52,7 +52,7 @@ Undang-Undang ini juga mengatur mengenai alat bukti elektronik atau digital evid
 ### 6. Undang-Undang No 15 Tahun 2003 tentang Pemberantasan Tindak Pidana Terorisme
 Selain Undang-Undang No. 25 Tahun 2003, Undang-Undang ini mengatur mengenai alat bukti elektronik sesuai dengan Pasal 27 huruf b yaitu alat bukti lain berupa informasi yang diucapkan, dikirimkan, diterima, atau disimpan secara elektronik dengan alat optik atau yang serupa dengan itu. Digital evidence atau alat bukti elektronik sangatlah berperan dalam penyelidikan kasus terorisme, karena saat ini komunikasi antara para pelaku di lapangan dengan pimpinan atau aktor intelektualnya dilakukan dengan memanfaatkan fasilitas di Internet untuk menerima perintah atau menyampaikan kondisi di lapangan karena para pelaku mengetahui pelacakan terhadap Internet lebih sulit dibandingkan pelacakan melalui handphone. Fasilitas yang sering digunakan adalah e-mail dan chat room selain mencari informasi dengan menggunakan search engine serta melakukan propaganda melalui bulletin board atau mailing list.
 
-### 7. Undang-Undang No. 11 tahun 2008 tentang Informasi dan Transaksi Elektronik.
+### 7. Undang-Undang No. 11 tahun 2008 diubah No. 19 Tahun 2016, tentang Informasi dan Transaksi Elektronik.
 ITE dipersepsikan sebagai cyberlaw di Indonesia, yang diharapkan bisa mengatur segala urusan dunia Internet (siber), termasuk didalamnya memberi punishment terhadap pelaku cybercrime. Cybercrime dideteksi dari dua sudut pandang:
 Kejahatan yang Menggunakan Teknologi Informasi Sebagai Fasilitas: Pembajakan, Pornografi, Pemalsuan/Pencurian Kartu Kredit, Penipuan Lewat Email (Fraud), Email Spam, Perjudian Online, Pencurian Account Internet, Terorisme, Isu Sara, Situs Yang Menyesatkan, dsb.
 Kejahatan yang Menjadikan Sistem Teknologi Informasi Sebagai Sasaran: Pencurian Data Pribadi, Pembuatan/Penyebaran Virus Komputer, Pembobolan/PembajakanSitus, Cyberwar, Denial of Service (DOS), Kejahatan Berhubungan Dengan Nama Domain, dsb.
@@ -69,3 +69,39 @@ d. Pelanggaran hak cipta dimungkinkan secara teknologi
 e. Sudah tidak memungkinkan lagi menggunakan hukum konvensional. Analogi masalahnya adalah mirip dengan kekagetan hukum konvensional dan aparat ketika awal mula terjadi pencurian listrik. Barang bukti yang dicuripun tidak memungkinkan dibawah ke ruang sidang. Demikian dengan apabila ada kejahatan dunia maya, pencurian bandwidth, dsb
 
 Secara umum, dapat disimpulkan bahwa UU ITE boleh disebut sebuah cyberlaw karena muatan dan cakupannya luas membahas pengaturan di dunia maya, meskipun di beberapa sisi ada yang belum terlalu lugas dan juga ada yang sedikit terlewat.
+
+### 8. Tindak Pidana Yang Berhubungan Dengan Aktivitas Ilegal Yaitu
+
+##### a. Distribusi atau penyebaran, transmisi, dapat diaksesnya konten illegal, yang terdiri dari:
+
+1. Kesusilaan (Pasal 27 ayat (1) UU ITE);
+
+2. Perjudian (Pasal 27 ayat (2) UU ITE);
+
+3. penghinaan dan/atau pencemaran nama baik (Pasal 27 ayat (3) UU ITE);
+
+4. pemerasan dan/atau pengancaman (Pasal 27 ayat (4) UU ITE);
+
+5. berita bohong yang menyesatkan dan merugikan konsumen (Pasal 28 ayat (1) UU ITE);
+
+6. menimbulkan rasa kebencian berdasarkan SARA (Pasal 28 ayat (2) UU ITE);
+
+7. mengirimkan informasi yang berisi ancaman kekerasan atau menakut-nakuti yang ditujukan secara pribadi (Pasal 29 UU ITE);
+
+##### b. dengan cara apapun melakukan akses illegal (Pasal 30 UU ITE);
+
+##### c. intersepsi atau penyadapan illegal terhadap informasi atau dokumen elektronik dan Sistem Elektronik (Pasal 31 UU 19/2016);
+
+### 9. Tindak pidana yang berhubungan dengan gangguan (interferensi), yaitu:
+
+a. Gangguan terhadap Informasi atau Dokumen Elektronik (data interference - Pasal 32 UU ITE);
+
+b. Gangguan terhadap Sistem Elektronik (system interference –Pasal 33 UU ITE);
+
+c. Tindak pidana memfasilitasi perbuatan yang dilarang (Pasal 34 UU ITE);
+
+d. Tindak pidana pemalsuan informasi atau dokumen elektronik (Pasal 35 UU ITE);
+
+e. Tindak pidana tambahan (accessoir Pasal 36 UU ITE); dan
+
+f. Perberatan-perberatan terhadap ancaman pidana (Pasal 52 UU ITE).
