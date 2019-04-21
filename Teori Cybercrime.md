@@ -1,34 +1,16 @@
-# Teori Tentang Cyber Crime Dan Cyber Law
+# 4. Teori Tentang Cyber Crime Dan Cyber Law
 
-## Defenisi Cyber Crime
+## 4.1 Defenisi Cyber Crime
 
-Cyber Crime atau biasa disebut dengan kejahatan dunia maya merupakan istilah yang mengacu kepada aktivitas kejahatan dengan komputer atau jaringan komputer menjadi alat, sasaran atau tempat terjadinya kejahatan. Termasuk ke dalam kejahatan dunia maya antara lain adalah penipuan lelang secara online, pemalsuan cek, penipuan kartu kredit/carding, confidence fraud, penipuan identitas, pornografi anak, dan lain-lain yang berkaitan dengan dunia cyber. Namun istilah ini juga digunakan untuk kegiatan kejahatan tradisional di mana komputer atau jaringan komputer digunakan untuk mempermudah atau memungkinkan kejahatan itu terjadi. Contoh kejahatan dunia maya di mana komputer sebagai alat adalah spamming dan kejahatan terhadap hak cipta dan kekayaan intelektual. Contoh kejahatan dunia maya di mana komputer sebagai sasarannya adalah akses ilegal (mengelabui kontrol akses), malware dan serangan DoS. Contoh kejahatan dunia maya di mana komputer sebagai tempatnya adalah penipuan identitas. Sedangkan contoh kejahatan tradisional dengan komputer sebagai alatnya adalah pornografi anak dan judi online.
+Cyber Crime atau biasa disebut dengan kejahatan dunia maya merupakan istilah yang mengacu kepada aktivitas kejahatan dengan komputer atau jaringan komputer menjadi alat, sasaran atau tempat terjadinya kejahatan. Termasuk ke dalam kejahatan dunia maya antara lain adalah penipuan lelang secara online, pemalsuan cek, penipuan kartu kredit/carding, confidence fraud, penipuan identitas, pornografi anak, dan lain-lain yang berkaitan dengan dunia cyber. Namun istilah ini juga digunakan untuk kegiatan kejahatan tradisional di mana komputer atau jaringan komputer digunakan untuk mempermudah atau memungkinkan kejahatan itu terjadi. 
 
-## Pengertian Cyber Crime Menurut Para Ahli 
+Contoh kejahatan dunia maya di mana komputer sebagai alat adalah spamming dan kejahatan terhadap hak cipta dan kekayaan intelektual. Contoh kejahatan dunia maya di mana komputer sebagai sasarannya adalah akses ilegal (mengelabui kontrol akses), malware dan serangan DoS. Contoh kejahatan dunia maya di mana komputer sebagai tempatnya adalah penipuan identitas. Sedangkan contoh kejahatan tradisional dengan komputer sebagai alatnya adalah pornografi anak dan judi online.
 
-1. Parker    
-Menurut Parker (Hamzah 1993:18), cyber crime adalah suatu tindakan atau kejadian yang berkaitan dengan teknologi komputer. Dimana seseorang mendapatkan keuntungan dengan merugikan pihak lain. 
-
-2. Wahid & Labib     
-Menurut Wahid dan Labib (2010:40), pengertian cyber crime adalah semua jenis pemakaian jaringan komputer untuk tujuan kriminal dengan penyalahgunaan kemudahan teknologi digital.
-
-3. Widodo   
-Menurut Widodo (2011:), pengertian cyber crime adalah semua kegiatan individu atau kelompok yang memakai jaringan komputer sebagai sarana melakukan kejahatan, atau menjadikan komputer sebagai sasaran kejahatan.
-
-4. Organization of European Community Development (OECD)    
-Menurut OECD, kejahatan dunia maya atau cyber crime adalah semua akses ilegal terhadap suatu transmisi data. Artinya, semua kegiatan yang tidak sah dalam suatu sistem komputer termasuk suatu tindak kejahatan (Karnasudiraja, 1993:3). 
-
-5. Forester dan Morrison : mendefinisikan kejahatan komputer sebagai: aksi kriminal dimana komputer digunakan sebagai senjata utama. 
-
-6. Girasa (2002) : mendefinisikan cybercrime sebagai aksi kejahatan yang menggunakan teknologi komputer sebagai komponen utama. 
-
-7. Tavani (2000) : memberikan definisi cybercrime yang lebih menarik, yaitu kejahatan dimana tindakan kriminal hanya bisa dilakukan dengan menggunakan teknologi cyber dan terjadi di dunia cyber. 
-
-## Karakteristik Cybercrime
+## 4.2 Karakteristik Cybercrime
 Dalam perkembangannya kejahatan konvensional cybercrime dikenal dengan :
 
-* Kejahatan kerah biru
-* Kejahatan kerah putih
+- Kejahatan kerah biru
+- Kejahatan kerah putih
 
 Cybercrime memiliki karakteristik unik yaitu :
 
@@ -40,105 +22,122 @@ Cybercrime memiliki karakteristik unik yaitu :
 
 Dari beberapa karakteristik diatas, untuk mempermudah penanganannya maka cybercrime diklasifikasikan :
 
-1. Cyberpiracy : Penggunaan teknologi computer untuk mencetak ulang software atau informasi, lalu mendistribusikan informasi atau software tersebut lewat teknologi komputer.
-2. Cybertrespass : Penggunaan teknologi computer untuk meningkatkan akses pada system computer suatu organisasi atau indifidu.
-3. Cybervandalism : Penggunaan teknologi computer untuk membuat program yang menganggu proses transmisi elektronik, dan menghancurkan data dikomputer.
+1. Cyberpiracy  
+Penggunaan teknologi komputer untuk mencetak ulang software atau informasi, lalu mendistribusikan informasi atau software tersebut lewat teknologi komputer.
+2. Cybertrespass  
+Penggunaan teknologi komputer untuk meningkatkan akses pada sistem komputer suatu organisasi atau indifidu.
+3. Cybervandalism  
+Penggunaan teknologi komputer untuk membuat program yang menganggu proses transmisi elektronik, dan menghancurkan data dikomputer.
 
 Perkiraan perkembangan cyber crime di masa depan dapat diperkirakan akan semakin meningkat seiring dengan perkembangan teknologi atau globalisasi dibidang teknologi informasi dan komunikasi, sebagai berikut :
 
-- Denial of Service Attack. Serangan tujuan ini adalah untuk memacetkan sistem dengan mengganggu akses dari pengguna jasa internet yang sah. Taktik yang digunakan adalah dengan mengirim atau membanjiri situs web dengan data sampah yang tidak perlu bagi orang yang dituju. Pemilik situs web menderita kerugian, karena untuk mengendalikan atau mengontrol kembali situs web tersebut dapat memakan waktu tidak sedikit yang menguras tenaga dan energi.
+- Denial of Service Attack  
+Serangan tujuan ini adalah untuk memacetkan sistem dengan mengganggu akses dari pengguna jasa internet yang sah. Taktik yang digunakan adalah dengan mengirim atau membanjiri situs web dengan data sampah yang tidak perlu bagi orang yang dituju. Pemilik situs web menderita kerugian, karena untuk mengendalikan atau mengontrol kembali situs web tersebut dapat memakan waktu tidak sedikit yang menguras tenaga dan energi.
 
-- Hate sites. Situs ini sering digunakan oleh hackers untuk saling menyerang dan melontarkan komentar-komentar yang tidak sopan dan vulgar yang dikelola oleh para “ekstrimis” untuk menyerang pihak-pihak yang tidak disenanginya. Penyerangan terhadap lawan atau opponent ini sering mengangkat pada isu-isu rasial, perang program dan promosi kebijakan ataupun suatu pandangan (isme) yang dianut oleh seseorang / kelompok, bangsa dan negara untuk bisa dibaca serta dipahami orang atau pihak lain sebagai “pesan” yang disampaikan.
+- Hate sites  
+Situs ini sering digunakan oleh hackers untuk saling menyerang dan melontarkan komentar-komentar yang tidak sopan dan vulgar yang dikelola oleh para “ekstrimis” untuk menyerang pihak-pihak yang tidak disenanginya. Penyerangan terhadap lawan atau opponent ini sering mengangkat pada isu-isu rasial, perang program dan promosi kebijakan ataupun suatu pandangan (isme) yang dianut oleh seseorang / kelompok, bangsa dan negara untuk bisa dibaca serta dipahami orang atau pihak lain sebagai “pesan” yang disampaikan.
 
-- Cyber Stalking adalah segala bentuk kiriman e-mail yang tidak dikehendaki oleh user atau junk e-mail yang sering memakai folder serta tidak jarang dengan pemaksaan. Walaupun e-mail “sampah” ini tidak dikehendaki oleh para user.
+- Cyber Stalking  
+Segala bentuk kiriman e-mail yang tidak dikehendaki oleh user atau junk e-mail yang sering memakai folder serta tidak jarang dengan pemaksaan. Walaupun e-mail “sampah” ini tidak dikehendaki oleh para user.
 
 
-## Jenis-jenis Cybercrime
+## 4.3 Jenis-jenis Cybercrime
 
-Jenis-jenis cybercrime berdasarkan jenis aktivitasnya
-### Unauthorized Access to Computer System and Service  
-Kejahatan yang dilakukan dengan memasuki/menyusup ke dalam suatu sistem jaringan komputer secara tidak sah, tanpa izin atau tanpa sepengetahuan dari pemilik sistem jaringan komputer yang dimasukinya. Biasanya pelaku kejahatan (hacker) melakukannya dengan maksud sabotase ataupun pencurian informasi penting dan rahasia. Namun begitu, ada juga yang melakukan hanya karena merasa tertantang untuk mencoba keahliannya menembus suatu sistem yang memiliki tingkat proteksi tinggi. Kejahatan ini semakin marak dengan berkembangnya teknologi internet/intranet. Kita tentu tidak lupa ketika masalah Timor Timur sedang hangat-hangatnya dibicarakan di tingkat internasional, beberapa website milik pemerintah RI dirusak oleh hacker (Kompas, 11/08/1999). Beberapa waktu lalu, hacker juga telah berhasil menembus masuk ke dalam database berisi data para pengguna jasa America Online (AOL), sebuah perusahaan Amerika Serikat yang bergerak dibidang e-commerce, yang memiliki tingkat kerahasiaan tinggi (Indonesian Observer, 26/06/2000). Situs Federal Bureau of Investigation (FBI) juga tidak luput dari serangan para hacker, yang mengakibatkan tidak berfungsinya situs ini dalam beberapa waktu lamanya.
+### 4.3.1 Jenis-jenis Cybercrime Berdasarkan Jenis Aktivitas
 
-### Illegal Contents
+#### 1. Unauthorized Access to Computer System and Service 
 
-Merupakan kejahatan dengan memasukkan data atau informasi ke internet tentang sesuatu hal yang tidak benar, tidak etis, dan dapat dianggap melanggar hukum atau mengganggu ketertiban umum. Sebagai contohnya adalah pemuatan suatu berita bohong atau fitnah yang akan menghancurkan martabat atau harga diri pihak lain, hal-hal yang berhubungan dengan pornografi atau pemuatan suatu informasi yang merupakan rahasia negara, agitasi dan propaganda untuk melawan pemerintahan yang sah, dan sebagainya.
+Kejahatan yang dilakukan dengan memasuki atau menyusup ke dalam suatu sistem jaringan komputer secara tidak sah, tanpa izin atau tanpa sepengetahuan dari pemilik sistem jaringan komputer yang dimasukinya. Biasanya pelaku kejahatan (hacker) melakukannya dengan maksud sabotase ataupun pencurian informasi penting dan rahasia. Namun begitu, ada juga yang melakukan hanya karena merasa tertantang untuk mencoba keahliannya menembus suatu sistem yang memiliki tingkat proteksi tinggi. 
 
-### Data Forgery
+Kejahatan ini semakin marak dengan berkembangnya teknologi internet/intranet. Kita tentu tidak lupa ketika masalah Timor Timur sedang hangat-hangatnya dibicarakan di tingkat internasional, beberapa website milik pemerintah RI dirusak oleh hacker (Kompas, 11/08/1999). Beberapa waktu lalu, hacker juga telah berhasil menembus masuk ke dalam database berisi data para pengguna jasa America Online (AOL), sebuah perusahaan Amerika Serikat yang bergerak dibidang e-commerce, yang memiliki tingkat kerahasiaan tinggi (Indonesian Observer, 26/06/2000). Situs Federal Bureau of Investigation (FBI) juga tidak luput dari serangan para hacker, yang mengakibatkan tidak berfungsinya situs ini dalam beberapa waktu lamanya.
+
+#### 2. Illegal Contents
+
+Merupakan kejahatan dengan memasukkan data atau informasi ke internet tentang sesuatu hal yang tidak benar, tidak etis, dan dapat dianggap melanggar hukum atau mengganggu ketertiban umum. 
+
+Sebagai contohnya adalah pemuatan suatu berita bohong atau fitnah yang akan menghancurkan martabat atau harga diri pihak lain, hal-hal yang berhubungan dengan pornografi atau pemuatan suatu informasi yang merupakan rahasia negara, agitasi dan propaganda untuk melawan pemerintahan yang sah, dan sebagainya.
+
+#### 3. Data Forgery
 
 Merupakan kejahatan dengan memalsukan data pada dokumen-dokumen penting yang tersimpan sebagai scriptless document melalui internet. Kejahatan ini biasanya ditujukan pada dokumen-dokumen e-commerce dengan membuat seolah-olah terjadi “salah ketik” yang pada akhirnya akan menguntungkan pelaku.
 
-### Cyber Espionage
+#### 4. Cyber Espionage
 
 Merupakan kejahatan yang memanfaatkan jaringan internet untuk melakukan kegiatan mata-mata terhadap pihak lain, dengan memasuki sistem jaringan komputer (computer network system) pihak sasaran. Kejahatan ini biasanya ditujukan terhadap saingan bisnis yang dokumen ataupun data-data pentingnya tersimpan dalam suatu sistem yang computerized.
 
-### Cyber Sabotage and Extortion
+#### 5. Cyber Sabotage and Extortion
 
-Kejahatan ini dilakukan dengan membuat gangguan, perusakan atau penghancuran terhadap suatu data, program komputer atau sistem jaringan komputer yang terhubung dengan internet. Biasanya kejahatan ini dilakukan dengan menyusupkan suatu logic bomb, virus komputer ataupun suatu program tertentu, sehingga data, program komputer atau sistem jaringan komputer tidak dapat digunakan, tidak berjalan sebagaimana mestinya, atau berjalan sebagaimana yang dikehendaki oleh pelaku. Dalam beberapa kasus setelah hal tersebut terjadi, maka pelaku kejahatan tersebut menawarkan diri kepada korban untuk memperbaiki data, program komputer atau sistem jaringan komputer yang telah disabotase tersebut, tentunya dengan bayaran tertentu. Kejahatan ini sering disebut sebagai cyber-terrorism.
+Kejahatan ini dilakukan dengan membuat gangguan, perusakan atau penghancuran terhadap suatu data, program komputer atau sistem jaringan komputer yang terhubung dengan internet. Biasanya kejahatan ini dilakukan dengan menyusupkan suatu logic bomb, virus komputer ataupun suatu program tertentu, sehingga data, program komputer atau sistem jaringan komputer tidak dapat digunakan, tidak berjalan sebagaimana mestinya, atau berjalan sebagaimana yang dikehendaki oleh pelaku. 
 
-### Offense against Intellectual Property
+Dalam beberapa kasus setelah hal tersebut terjadi, maka pelaku kejahatan tersebut menawarkan diri kepada korban untuk memperbaiki data, program komputer atau sistem jaringan komputer yang telah disabotase tersebut, tentunya dengan bayaran tertentu. Kejahatan ini sering disebut sebagai cyber-terrorism.
 
-Kejahatan ini ditujukan terhadap Hak atas Kekayaan Intelektual yang dimiliki pihak lain di internet. Sebagai contoh adalah peniruan tampilan pada web page suatu situs milik orang lain secara ilegal, penyiaran suatu informasi di internet yang ternyata merupakan rahasia dagang orang lain, dan sebagainya.
+#### 6. Offense against Intellectual Property
 
-### Infringements of Privacy
+Kejahatan ini ditujukan terhadap hak atas kekayaan intelektual yang dimiliki pihak lain di internet. Sebagai contoh adalah peniruan tampilan pada web page suatu situs milik orang lain secara ilegal, penyiaran suatu informasi di internet yang ternyata merupakan rahasia dagang orang lain, dan sebagainya.
+
+#### 7. Infringements of Privacy
 
 Kejahatan ini ditujukan terhadap informasi seseorang yang merupakan hal yang sangat pribadi dan rahasia. Kejahatan ini biasanya ditujukan terhadap keterangan pribadi seseorang yang tersimpan pada formulir data pribadi yang tersimpan secara computerized, yang apabila diketahui oleh orang lain maka dapat merugikan korban secara materil maupun immateril, seperti nomor kartu kredit, nomor PIN ATM, cacat atau penyakit tersembunyi dan sebagainya.
 
-### Cracking
+#### 8. Cracking
 
-Kejahatan dengan menggunakan teknologi computer yang dilakukan untuk merusak system keamaanan suatu system computer dan biasanya melakukan pencurian, tindakan anarkis begitu merekan mendapatkan akses. Biasanya kita sering salah menafsirkan antara seorang hacker dan cracker dimana hacker sendiri identetik dengan perbuatan negative, padahal hacker adalah orang yang senang memprogram dan percaya bahwa informasi adalah sesuatu hal yang sangat berharga dan ada yang bersifat dapat dipublikasikan dan rahasia.
+Kejahatan dengan menggunakan teknologi komputer yang dilakukan untuk merusak sistem keamanan suatu sistem komputer dan biasanya melakukan pencurian, tindakan anarkis begitu mereka mendapatkan akses. Biasanya kita sering salah menafsirkan antara seorang hacker dan cracker dimana hacker sendiri identetik dengan perbuatan negative, padahal hacker adalah orang yang senang memprogram dan percaya bahwa informasi adalah sesuatu hal yang sangat berharga dan ada yang bersifat dapat dipublikasikan dan rahasia.
 
-### Carding
+#### 9. Carding
 
-Adalah kejahatan dengan menggunakan teknologi computer untuk melakukan transaksi dengan menggunakan card credit orang lain sehingga dapat merugikan orang tersebut baik materil maupun non materil.
+Adalah kejahatan dengan menggunakan teknologi komputer untuk melakukan transaksi dengan menggunakan kartu kredit orang lain sehingga dapat merugikan orang tersebut baik materil maupun non materil.
 
-Jenis-jenis cybercrime berdasarkan motif
-Berdasarkan motif cybercrime terbergi menjadi 2 yaitu :
+### 4.3.2 Jenis-jenis Cybercrime Berdasarkan Motif
 
-1. Cybercrime sebagai tindak kejahatan murni : dimana orang yang melakukan kejahatan yang dilakukan secara di sengaja, dimana orang tersebut secara sengaja dan terencana untuk melakukan pengrusakkan, pencurian, tindakan anarkis, terhadap suatu system informasi atau system computer.
+#### 1. Cybercrime sebagai tindak kejahatan murni  
+Dimana orang yang melakukan kejahatan yang dilakukan secara di sengaja, dimana orang tersebut secara sengaja dan terencana untuk melakukan pengrusakkan, pencurian, tindakan anarkis, terhadap suatu sistem informasi atau sistem komputer.
 
-2. Cybercrime sebagai tindakan kejahatan abu-abu : dimana kejahatan ini tidak jelas antara kejahatan criminal atau bukan karena dia melakukan pembobolan tetapi tidak merusak, mencuri atau melakukan perbuatan anarkis terhadap system informasi atau system computer tersebut.
+#### 2. Cybercrime sebagai tindakan kejahatan abu-abu
 
-Selain dua jenis diatas cybercrime berdasarkan motif terbagi menjadi
+Dimana kejahatan ini tidak jelas antara kejahatan criminal atau bukan karena dia melakukan pembobolan tetapi tidak merusak, mencuri atau melakukan perbuatan anarkis terhadap sistem informasi atau sistem komputer tersebut.
 
-- Cybercrime yang menyerang individu : kejahatan yang dilakukan terhadap orang lain dengan motif dendam atau iseng yang bertujuan untuk merusak nama baik, mencoba ataupun mempermaikan seseorang untuk mendapatkan kepuasan pribadi. Contoh : Pornografi, cyberstalking, dan lain-lain.
+
+#### 3. Cybercrime yang menyerang individu
+
+Kejahatan yang dilakukan terhadap orang lain dengan motif dendam atau iseng yang bertujuan untuk merusak nama baik, mencoba ataupun mempermaikan seseorang untuk mendapatkan kepuasan pribadi. Contoh : Pornografi, cyberstalking, dan lain-lain.
  
-- Cybercrime yang menyerang hak cipta (Hak milik) : kejahatan yang dilakukan terhadap hasil karya seseorang dengan motif menggandakan, memasarkan, mengubah yang bertujuan untuk kepentingan pribadi/umum ataupun demi materi/nonmateri.
+#### 4. Cybercrime yang menyerang hak cipta (hak milik)
 
-- Cybercrime yang menyerang pemerintah : kejahatan yang dilakukan dengan pemerintah sebagai objek dengan motif melakukan terror, membajak ataupun merusak keamanan suatu pemerintahan yang bertujuan untuk mengacaukan system pemerintahan, atau menghancurkan suatu Negara.
+Kejahatan yang dilakukan terhadap hasil karya seseorang dengan motif menggandakan, memasarkan, mengubah yang bertujuan untuk kepentingan pribadi/umum ataupun demi materi/nonmateri.
 
-## Metode Kejahatan Cyber Crime 
+#### 5. Cybercrime yang menyerang pemerintah
 
- Maraknya jenis cyber crime saat ini maka metode dalam melakukannya pun cukup beragam. Berikut ini adalah beberapa cara kerja cyber crime yang sering dilakukan: 
+Kejahatan yang dilakukan dengan pemerintah sebagai objek dengan motif melakukan teror, membajak ataupun merusak keamanan suatu pemerintahan yang bertujuan untuk mengacaukan sistem pemerintahan, atau menghancurkan suatu negara.
 
-  
+## 4.4 Metode Kejahatan Cybercrime 
 
-1. Password Cracker 
+Maraknya jenis cybercrime saat ini maka metode dalam melakukannya pun cukup beragam. Berikut ini adalah beberapa cara kerja cyber crime yang sering dilakukan: 
 
+### 4.4.1 Password Cracker
 Ini adalah suatu tindakan mencuri password orang lain dengan menggunakan suatu program yang dapat membuka enkripsi password. Tindakan ini juga sering dilakukan untuk menonaktifkan suatu sistem pengamanan password. 
 
-2. Spoofing 
-
+### 4.4.2 Spoofing 
 Spoofing adalah tindakan memalsukan data atau identitas seseorang sehingga pelaku (hacker) dapat melakukan login ke dalam suatu jaringan komputer layaknya user yang asli. 
 
-3. DDoS (Distributed Denial of Service Attacks) 
+### 4.4.3 DDoS (Distributed Denial of Service Attacks) 
 
 Ini adalah serangan yang dilakukan terhadap sebuah komputer atau server di dalam jaringan internet yang dilakukan oleh seorang hacker/ attacker. Serangan DDoS akan menghabiskan sumber daya (resource) yang ada pada suatu komputer atau server hingga tidak dapat lagi menjalankan fungsinya dengan benar. 
 
-4. Sniffing 
+### 4.4.4 Sniffing 
 
 Sniffing adalah bentuk cyber crime dimana pelaku mencuri username dan password orang lain secara sengaja maupun tidak sengaja. Pelaku kemudian dapat memakai akun korban untuk melakukan penipuan atas nama korban atau merusak/ menghapus data milik korban. 
 
-5. Destructive Devices 
+### 4.4.5 Destructive Devices 
 
 Ini adalah program atau software berisi virus dimana tujuannya adalah untuk merusak atau menghancurkan data-data di dalam komputer korban. Beberapa yang termasuk dalam program ini adalah Worms, Trojan Horse, Nukes, Email Bombs, dan lain-lain. 
 
-## Cyber Law
+## 4.5 Cyber Law
 
-### Defenisi Cyber Law
+### 4.5.1 Defenisi Cyber Law
 
 Cyber Law ialah sebuah aturan yang berbentuk hukum yang di buat khusus untuk dunia digital atau internet. Dengan makin banyak dan berkembangnya tindak kriminal dan kejahatan yang ada di dunia internet, maka mau tidak mau hukum dan aturan tersebut harus di buat. Cyber law sendiri ruang lingkupnya meliputi setiap aspek yang berhubungan dengan orang perorangan atau subyek hukum yang menggunakan dan memanfaatkan teknologi internet yang dimulai pada saat mulai online dan memasuki dunia cyber atau maya. Cyber Law sendiri merupakan istilah yang berasal dari Cyberspace Law.
 
-### Ruang Lingkup Cyber Law
+### 4.5.2 Ruang Lingkup Cyber Law
 
 Pembahasan mengenai ruang lingkup ”cyber law” dimaksudkan sebagai inventarisasi atas persoalan-persoalan atau aspek-aspek hukum yang diperkirakan berkaitan dengan pemanfaatan Internet. Secara garis besar ruang lingkup ”cyber law” ini berkaitan dengan persoalan-persoalan atau  aspek hukum dari:
 
@@ -150,7 +149,8 @@ Pembahasan mengenai ruang lingkup ”cyber law” dimaksudkan sebagai inventaris
 - Content Regulation
 - Disptle Settlement, dan sebagainya.
   
-### Topik Seputar Cyber Law
+### 4.5.3 Topik Seputar Cyber Law
+
 Secara garis besar ada lima topic dari cyberlaw di setiap negara yaitu:
 
 - Information security, menyangkut masalah keotentikan pengirim atau penerima dan integritas dari pesan yang mengalir melalui internet. Dalam hal ini diatur masalah kerahasiaan dan keabsahan tanda tangan elektronik.
@@ -159,7 +159,7 @@ Right in electronic information, soal hak cipta dan hak-hak yang muncul bagi pen
 - Regulation information content, sejauh mana perangkat hukum mengatur content yang dialirkan melalui internet.
 - Regulation on-line contact, tata karma dalam berkomunikasi dan berbisnis melalui internet termasuk perpajakan, retriksi eksport-import, kriminalitas dan yurisdiksi hukum.
 
-### Komponen Dari  Cyberlaw
+### 4.5.4 Komponen Dari  Cyberlaw
 - Pertama, tentang yurisdiksi hukum dan aspek-aspek terkait; komponen ini menganalisa dan menentukan keberlakuan hukum yang berlaku dan diterapkan di dalam dunia maya itu.
 - Kedua, tentang landasan penggunaan internet sebagai sarana untuk melakukan kebebasan berpendapat yang berhubungan dengan tanggung jawab pihak yang menyampaikan, aspek accountability, tangung jawab dalam memberikan jasa online dan penyedia jasa internet (internet provider), serta tanggung jawab hukum bagi penyedia jasa pendidikan melalui jaringan internet.
 - Ketiga, tentang aspek hak milik intelektual dimana adanya aspek tentang  patent, merek dagang rahasia yang diterapkan serta berlaku di dalam dunia cyber.
@@ -169,7 +169,7 @@ Right in electronic information, soal hak cipta dan hak-hak yang muncul bagi pen
 - Ketujuh, tentang aspek hukum yang memberikan legalisasi atas internet
 sebagai bagian dari perdagangan atau bisnis usaha.
 
-### Asas-asas Cyber Law
+### 4.5.5 Asas-asas Cyber Law
 
 Dalam kaitannya dengan penentuan hukum yang berlaku dikenal beberapa asas yang biasa digunakan, yaitu :
 
@@ -186,11 +186,12 @@ Passive Nationality, yang menekankan jurisdiksi berdasarkan kewarganegaraan korb
    
 Oleh karena itu, untuk ruang cyber dibutuhkan suatu hukum baru yang menggunakan pendekatan yang berbeda dengan hukum yang dibuat berdasarkan batas-batas wilayah. Ruang cyber dapat diibaratkan sebagai suatu tempat yang hanya dibatasi oleh screens and passwords. Secara radikal, ruang cyber telah mengubah hubungan antara legally significant (online) phenomena and physical location.
 
-### Perkembangan Cyber Law
+### 4.5.6 Perkembangan Cyber Law
 
 Perkembangan Cyber Law di Indonesia sendiri belum bisa dikatakan maju. Hal ini diakibatkan oleh belum meratanya pengguna internet di seluruh Indonesia. Berbeda dengan Amerika Serikat yang menggunakan telah internet untuk memfasilitasi seluruh aspek kehidupan mereka. Oleh karena itu, perkembangan hukum dunia maya di Amerika Serikat pun sudah sangat maju. Landasan fundamental di dalam aspek yuridis yang mengatur lalu lintas internet sebagai hukum khusus, di mana terdapat komponen utama yang meng-cover persoalan yang ada di dalam dunai maya tersebut, yaitu :
 
-#### Yurisdiksi hukum dan aspek-aspek terkait.    
+## 4.6 Yurisdiksi hukum dan aspek-aspek terkait.    
+
 Komponen ini menganalisa dan menentukan keberlakuan hukum yang berlaku dan diterapkan di dalam dunia maya itu.
 Landasan penggunaan internet sebagai sarana untuk melakukan kebebasan berpendapat yang berhubungan dengan tanggung jawab pihak yang menyampaikan, aspek accountability, tangung jawab dalam memberikan jasa online dan penyedia jasa internet (internet provider), serta tanggung jawab hukum bagi penyedia jasa pendidikan melalui jaringan internet.
 1. Aspek hak milik intelektual di mana ada aspek tentang patent, merek dagang rahasia yang diterapkan, serta berlaku di dalam dunia cyber.
