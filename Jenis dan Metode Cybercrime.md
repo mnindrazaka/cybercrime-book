@@ -1,8 +1,15 @@
 # 3. Jenis dan Metode Kejahatan Cybercrime
-tindak kejahatan _cybercrime_ tentu memiliki berbagai jenis, serta metode dan cara yang sering digunakan. Bahkan, para pelaku memiliki suatu perkumpulan yang saling membagi cara, informasi, dan teknologi-teknologi yang digunakan dalam melakukan tindak kejahatan yang tergolong dalam jenis _cybercrime_. Tak jarang pula cara dan perangkat lunak yang dimaksud, dapat dilihat dan diunduh secara bebas di internet. Dengan mudahnya penyebaran informasi dan kecepatan perkembangan teknologi, maka muncullah berbagai macam jenis _cybercrime_ dan metode-metode yang digunakan.  
+
+Tindak kejahatan _cybercrime_ tentu memiliki berbagai jenis, serta metode dan cara yang sering digunakan. Bahkan, para pelaku memiliki suatu perkumpulan yang saling membagi cara, informasi, dan teknologi-teknologi yang digunakan dalam melakukan tindak kejahatan yang tergolong dalam jenis _cybercrime_. 
+
+Tak jarang pula cara dan perangkat lunak yang dimaksud, dapat dilihat dan diunduh secara bebas di internet. Dengan mudahnya penyebaran informasi dan kecepatan perkembangan teknologi, maka muncullah berbagai macam jenis _cybercrime_ dan metode-metode yang digunakan.  
+
 ## 3.1 Jenis-Jenis Cybercrime
+
 Dalam klasifikasinya, _cybercrime_ dibagi berdasarkan aktivitas dan berdasarkan motif dari pelakunya.  
+
 ### 3.1.1 Jenis-Jenis Cybercrime Berdasarkan Aktivitas
+
 1.	Akses Ilegal (_Unauthorized Access_)  
 Merupakan kejahatan yang terjadi ketika seseorang memasuki dan menyusup ke dalam suatu sistem jaringan komputer atau akun orang lain secara tidak sah, tanpa izin atau tanpa sepengetahuan pemilik sistem jaringan komputer atau akun yang dimasukinya. Sehingga sangat mungkin membuat pemiliknya mengalami kerugian, misalnya kehilangan data, tindak kejahatan yang mengatasnamakan pemilik aslinya. 
 
@@ -73,6 +80,5 @@ _Sniffing_ adalah bentuk _cybercrime_ dimana pelaku mencuri _username_ dan kata 
 Ini adalah perangkat lunak berisi virus dimana tujuannya adalah untuk merusak atau menghancurkan data-data di dalam komputer korban. Beberapa yang termasuk dalam program ini adalah Worms, Trojan Horse, Nukes, Email Bombs, dan lain-lain. 
 
 > Sumber  
-
-> ●	https://www.academia.edu/10351647/KEJAHATAN_DUNIA_MAYA_CYBERCRIME_DENGAN_METODE_PHISHING_Diajukan_Untuk_Memenuhi_Ujian_Akhir_Semester_UAS_Mata_kuliah_EPTIK_Pada_Program_Diploma_Tiga_D.III
-> ●	https://www.maxmanroe.com/vid/teknologi/pengertian-cyber-crime.html
+> -	https://www.academia.edu/10351647/KEJAHATAN_DUNIA_MAYA_CYBERCRIME_DENGAN_METODE_PHISHING_Diajukan_Untuk_Memenuhi_Ujian_Akhir_Semester_UAS_Mata_kuliah_EPTIK_Pada_Program_Diploma_Tiga_D.III
+> -	https://www.maxmanroe.com/vid/teknologi/pengertian-cyber-crime.html
