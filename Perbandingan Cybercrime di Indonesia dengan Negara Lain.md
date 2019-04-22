@@ -1,6 +1,6 @@
-# Perbandingan Cybercrime di Indonesia dengan Negara Lain
+# 7. Perbandingan Cybercrime di Indonesia dengan Negara Lain
 
-## Cybercrime di 20 Negara Tingkat Global Berdasarkan Ranking dan Jenis Serangannya
+## 7.1 Cybercrime di 20 Negara Berdasarkan Ranking dan Jenis Serangannya
 
 ![alt text](https://github.com/MuhamadDirga/image/blob/master/Cybercrime-Top-20-Countries.jpg?raw=true "CyberCrime Top 20 Countries")
 
@@ -27,7 +27,9 @@
 | 19      | Australia                | 1%                                   | 14                  | 37                | 17                           | 27       | 13                 |
 | 20      | Israel                   | 1%                                   | 40                  | 16                | 15                           | 16       | 22                 |
 
-## 10 Ranking Negara di Asia berdasarkan Tingkat Serangan Cybercrime (Dari yang terburuk ke yang terbaik)
+Dari grafik di atas, dapat dilihat bahwa Indonesia tidak mengalami dampak besar dalam kategori negara yang mengalami tindak kejahatan dunia siber.
+
+## 7.2 10 Ranking Negara di Asia Berdasarkan Tingkat Serangan Cybercrime (Dari yang Terburuk ke yang Terbaik)
 
 | Rank | Country    | Score | Percentage of Mobiles Infected with Malware | Financial Malware Attacks (% of Users) | Percentage of Computers Infected with Malware | Percentage of Telnet Attacks by Originating Country (IoT) | Percentage of Attacks by Cryptominers | Best Prepared for Cyberattacks | Most Up-to-Date Legislation |
 |------|------------|-------|---------------------------------------------|----------------------------------------|-----------------------------------------------|-----------------------------------------------------------|---------------------------------------|--------------------------------|-----------------------------|
@@ -42,35 +44,31 @@
 | 9    | Iran       | 43.29 | 28.07                                       | 0.8                                    | 12.7                                          | 1.71                                                      | 4.51                                  | 0.494                          | 2                           |
 | 10   | Ukraine    | 42.58 | 10.85                                       | 0.3                                    | 28.7                                          | 1.17                                                      | 7.6                                   | 0.501                          | 3                           |
 
-## Macam-macam platform yang dipakai untuk melakukan hack dan pencurian data
-
-![alt text](https://github.com/MuhamadDirga/image/blob/master/existing-platforms-as-a-source-for-data-theft-and-hacks.jpg?raw=true "existing platforms as a source for data theft and hacks")
-
-## Negara mana yang memiliki keamanan cyber terendah di dunia?
+## 7.3 Negara yang Memiliki Keamanan Siber Terendah di Dunia
 
 ![alt text](https://github.com/MuhamadDirga/image/blob/master/cyber-security-ranking.jpg?raw=true "existing platforms as a source for data theft and hacks")
 
 Dilansir dari sebuah studi, Algeria adalah negara yang memiliki keamanan cyber paling rendah diantara negara-negara lain di Dunia.
-Dikarenakan Algeria adalah negara yang jarang membuat undang-undang yang mengatur tentang hal tersebut dan serangan malware yang tinggi, Algeria juga menerima  nilai tinggi untuk kategori serangan malware ponsel dan kurangnya persiapan untuk serangan cyber.
+Dikarenakan Algeria adalah negara yang jarang membuat undang-undang yang mengatur tentang hal tersebut dan serangan _malware_ yang tinggi, Algeria juga menerima  nilai tinggi untuk kategori serangan _malware_ ponsel dan kurangnya persiapan untuk serangan dunia siber.
 Negara lainnya ialah Indonesia, Vietnam, Tanzania, and Uzbekistan.
-Beberapa negara lain yang maju juga masuk ke dalam ranking “Negara dengan Tingkat Cybercrime yang Tinggi” hanya saja negara-negara tersebut baik dalam melakukan hal lainnya yang mengatur tentang keamanan cyber.
-Negara Jerman menerima nilai tertinggi untuk serangan malware finansial dan China memiliki nilai tertinggi untuk serangan telnet sebagai negara dimana telnet berasal.
+Beberapa negara lain yang maju juga masuk ke dalam ranking “Negara dengan Tingkat _Cybercrime_ yang Tinggi” hanya saja negara-negara tersebut baik dalam melakukan hal lainnya yang mengatur tentang keamanan dunia siber.
+Negara Jerman menerima nilai tertinggi untuk serangan _malware_ finansial dan China memiliki nilai tertinggi untuk serangan telnet sebagai negara dimana telnet berasal.
 
-Nilai tertinggi berdasarkan kategorinya :
+Nilai tertinggi berdasarkan kategorinya:
 
-•	Persentase tertinggi dari infeksi malware ponsel – Bangladesh – 35.91% pengguna yang terkena
+•	Persentase tertinggi dari infeksi _malware_ ponsel – Bangladesh – 35.91% pengguna yang terkena
 
-•	Jumlah terbanyak dari serangan malware finansial – Germany – 3% pengguna yang terkena
+•	Jumlah terbanyak dari serangan _malware_ finansial – Germany – 3% pengguna yang terkena
 
-•	Persentase tertinggi dari infeksi malware komputer – Algeria – 32.41%
+•	Persentase tertinggi dari infeksi _malware_ komputer – Algeria – 32.41%
 
 •	Persentase tertinggi dari serangan telnet (by originating country) – China – 27.15%
 
-•	Persentase tertinggi dari serangan cryptominers – Uzbekistan – 14.23% pengguna yang terkena
+•	Persentase tertinggi dari serangan _cryptominers_ – Uzbekistan – 14.23% pengguna yang terkena
 
-•	Kurangnya persiapan dari serangan cyber – Vietnam – 0.245 skor
+•	Kurangnya persiapan dari serangan siber – Vietnam – 0.245 skor
 
-•	Undang-undang terkini yang paling buruk untuk keamanan cyber – Algeria – 1 pasal
+•	Undang-undang terkini yang paling buruk untuk keamanan siber – Algeria – 1 pasal
 
-## Kesimpulan
-Tindakan cybercrime di Indonesia dengan negara lainnya ialah cenderung sama baik dari jenis serangan dan platform yang disasar oleh pelaku kejahatan, hanya saja di Indonesia sering terkena dampak serangan cybercrime dikarenakan kurangnya tingkat keamanan, dan peraturan yang mengatur tentang keamanan data penggunanya sehingga dapat dicuri dan disalahgunakan.
+## 7.4 Kesimpulan
+Tindakan _cybercrime_ di Indonesia dengan negara lainnya ialah cenderung sama. Baik dari jenis serangan atau platform yang disasar oleh pelaku kejahatan. Hanya saja di Indonesia sering terkena dampak serangan _cybercrime_ dikarenakan kurangnya tingkat keamanan, dan peraturan yang mengatur tentang keamanan data penggunanya sehingga dapat dicuri dan disalahgunakan.
