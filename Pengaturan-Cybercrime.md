@@ -86,7 +86,7 @@ Selain Undang-Undang No. 25 Tahun 2003, Undang-Undang ini mengatur mengenai alat
 
 Digital evidence atau alat bukti elektronik sangatlah berperan dalam penyelidikan kasus terorisme, karena saat ini komunikasi antara para pelaku di lapangan dengan pimpinan atau aktor intelektualnya dilakukan dengan memanfaatkan fasilitas di Internet untuk menerima perintah atau menyampaikan kondisi di lapangan karena para pelaku mengetahui pelacakan terhadap Internet lebih sulit dibandingkan pelacakan melalui handphone. Fasilitas yang sering digunakan adalah e-mail dan chat room selain mencari informasi dengan menggunakan search engine serta melakukan propaganda melalui bulletin board atau mailing list.
 
-## 2.7 Undang-Undang No. 11 tahun 2008 tentang Informasi dan Transaksi Elektronik.
+## 2.7 Undang-Undang No. 11 tahun 2008 diubah No. 19 Tahun 2016, tentang Informasi dan Transaksi Elektronik.
 
 ITE dipersepsikan sebagai _cyberlaw_ di Indonesia, yang diharapkan bisa mengatur segala urusan dunia Internet (siber), termasuk didalamnya memberi _punishment_ terhadap pelaku _cybercrime_. _Cybercrime_ dideteksi dari dua sudut pandang, yaitu :
 
@@ -104,3 +104,38 @@ Cybercrime menjadi isu yang menarik dan kadang menyulitkan karena :
 5. Sudah tidak memungkinkan lagi menggunakan hukum konvensional. Analogi masalahnya adalah mirip dengan kekagetan hukum konvensional dan aparat ketika awal mula terjadi pencurian listrik. Barang bukti yang dicuripun tidak memungkinkan dibawah ke ruang sidang. Demikian dengan apabila ada kejahatan dunia maya, pencurian bandwidth, dan sebagainya.
 
 Secara umum, dapat disimpulkan bahwa UU ITE boleh disebut sebuah _cyberlaw_ karena muatan dan cakupannya luas membahas pengaturan di dunia maya, meskipun di beberapa sisi ada yang belum terlalu lugas dan juga ada yang sedikit terlewat.
+
+## 2.8 Tindak Pidana Yang Berhubungan Dengan Aktivitas Ilegal
+
+Berikut akan dijelaskan beberapa tindak pidana yang berhubungan dengan aktivitas ilegal
+
+### 2.8.1 Distribusi dan transmisi konten ilegal
+
+Konten ilegal yang dimaksud antara lain :
+
+1. Kesusilaan (Pasal 27 ayat (1) UU ITE)
+2. Perjudian (Pasal 27 ayat (2) UU ITE)
+3. Penghinaan dan atau pencemaran nama baik (Pasal 27 ayat (3) UU ITE)
+4. Pemerasan dan atau pengancaman (Pasal 27 ayat (4) UU ITE)
+5. Berita bohong yang menyesatkan dan merugikan konsumen (Pasal 28 ayat (1) UU ITE)
+6. Menimbulkan rasa kebencian berdasarkan SARA (Pasal 28 ayat (2) UU ITE)
+7. Mengirimkan informasi yang berisi ancaman kekerasan atau menakut-nakuti yang ditujukan secara pribadi (Pasal 29 UU ITE)
+
+### 2.8.2 Melakukan akses ilegal dengan cara apapun (Pasal 30 UU ITE)
+
+Melakukan akses ilegal dengan cara apapun dapat dikategorikan sebagai aktivitas ilegal
+
+### 2.8.3 Intersepsi atau penyadapan ilegal terhadap informasi atau dokumen elektronik dan sistem elektronik (Pasal 31 UU 19 / 2016)
+
+Melakukan intersepsi atau penyadapan ilegal terhadap informasi atau dokumen elektronik dan sistem elektronik dapat dikategorikan sebagai aktivitas ilegal
+
+## 2.9 Tindak pidana yang berhubungan dengan gangguan (interferensi)
+
+Beberapa tindak pidana yang berhubungan dengan gangguan antara lain :
+
+1. Gangguan terhadap informasi atau dokumen elektronik (data interference - Pasal 32 UU ITE)
+2. Gangguan terhadap sistem elektronik (system interference –Pasal 33 UU ITE)
+3. Tindak pidana memfasilitasi perbuatan yang dilarang (Pasal 34 UU ITE)
+4. Tindak pidana pemalsuan informasi atau dokumen elektronik (Pasal 35 UU ITE)
+5. Tindak pidana tambahan (accessoir Pasal 36 UU ITE)
+6. Perberatan - perberatan terhadap ancaman pidana (Pasal 52 UU ITE)
