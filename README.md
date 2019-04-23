@@ -3,7 +3,7 @@
 Membuat buku tentang cybercrime
 
 ## Materi :
-1. [Pengertian cybercrime]("Pengertian CyberCrime.md")
+1. [Pengertian cybercrime](Pengertian-CyberCrime.md)
    - Fadli
    - Aditya
 
@@ -12,12 +12,12 @@ Membuat buku tentang cybercrime
    - Imron
    - Andre
 
-3. [Jenis dan metode kejahatan]("Jenis dan Metode Cybercrime.md")
+3. [Jenis dan metode kejahatan](Jenis-dan-Metode-Cybercrime.md)
    - Frans
    - Nadhifa
    - Eko
 
-4. [Teori cybercrime]("Teori Cybercrime.md")
+4. [Teori cybercrime](Teori-Cybercrime.md)
    - Berlian
    - Gandha
    - Tholib
@@ -27,12 +27,12 @@ Membuat buku tentang cybercrime
    - Andy
    - Iqbal
 
-6. [Penegakan hukum cybercrime di Indonesia]("Penegakan hukum cybercrime di Indonesia (MD).md")
+6. [Penegakan hukum cybercrime di Indonesia](Penegakan-hukum-cybercrime-di-Indonesia.md)
    - Dika
    - Angel
    - Clara
 
-7. [Perbandingan cybercrime Indonesia dengan negara lain]("Perbandingan Cybercrime di Indonesia dengan Negara Lain.md")
+7. [Perbandingan cybercrime Indonesia dengan negara lain](Perbandingan-Cybercrime-di-Indonesia-dengan-Negara-Lain.md")
    - Dirga
    - Devan
    - Ananta
