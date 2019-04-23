@@ -32,7 +32,7 @@ Membuat buku tentang cybercrime
    - Angel
    - Clara
 
-7. [Perbandingan cybercrime Indonesia dengan negara lain](Perbandingan-Cybercrime-di-Indonesia-dengan-Negara-Lain.md")
+7. [Perbandingan cybercrime Indonesia dengan negara lain](Perbandingan-Cybercrime-di-Indonesia-dengan-Negara-Lain.md)
    - Dirga
    - Devan
    - Ananta
