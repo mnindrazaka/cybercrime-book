@@ -3,36 +3,36 @@
 Membuat buku tentang cybercrime
 
 ## Materi :
-**1. Pengertian cybercrime [On Review]**
+1. [Pengertian cybercrime](Pengertian CyberCrime.md)
    - Fadli
    - Aditya
 
-**2. pengaturan cybercrime [Merged]**
+2. [Pengaturan cybercrime](Pengaturan-Cybercrime.md)
    - Idris
    - Imron
    - Andre
 
-**3. jenis dan metode kejahatan [On Review]**
+3. [Jenis dan metode kejahatan](Jenis dan Metode Cybercrime.md)
    - Frans
    - Nadhifa
    - Eko
 
-**4. teori cybercrime [On Review]**
+4. [Teori cybercrime](Teori Cybercrime.md)
    - Berlian
    - Gandha
    - Tholib
 
-**5. kasus cybercrime di Indonesia dan negara lain [On Review]**
+5. [Kasus cybercrime di Indonesia dan negara lain](kasus-cybercrime.md)
    - Atina
    - Andy
    - Iqbal
 
-**6. penegakan hukum cybercrime di Indonesia [On Review]**
+6. [Penegakan hukum cybercrime di Indonesia](Penegakan hukum cybercrime di Indonesia (MD).md)
    - Dika
    - Angel
    - Clara
 
-**7. perbandingan cybercrime Indonesia dgn negara lain (disertai tabel)**
+7. [Perbandingan cybercrime Indonesia dengan negara lain](Perbandingan Cybercrime di Indonesia dengan Negara Lain.md)
    - Dirga
    - Devan
    - Ananta
