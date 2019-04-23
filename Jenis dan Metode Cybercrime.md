@@ -77,8 +77,4 @@ Ini adalah serangan yang dilakukan terhadap sebuah komputer atau server di dalam
 4. _Sniffing_  
 _Sniffing_ adalah bentuk _cybercrime_ dimana pelaku mencuri _username_ dan kata sandi orang lain secara sengaja maupun tidak sengaja. Pelaku kemudian dapat memakai akun korban untuk melakukan penipuan atas nama korban, merusak, atau menghapus data milik korban.
 5. _Destructive Devices_  
-Ini adalah perangkat lunak berisi virus dimana tujuannya adalah untuk merusak atau menghancurkan data-data di dalam komputer korban. Beberapa yang termasuk dalam program ini adalah Worms, Trojan Horse, Nukes, Email Bombs, dan lain-lain. 
-
-> Sumber  
-> -	https://www.academia.edu/10351647/KEJAHATAN_DUNIA_MAYA_CYBERCRIME_DENGAN_METODE_PHISHING_Diajukan_Untuk_Memenuhi_Ujian_Akhir_Semester_UAS_Mata_kuliah_EPTIK_Pada_Program_Diploma_Tiga_D.III
-> -	https://www.maxmanroe.com/vid/teknologi/pengertian-cyber-crime.html
+Ini adalah perangkat lunak berisi virus dimana tujuannya adalah untuk merusak atau menghancurkan data-data di dalam komputer korban. Beberapa yang termasuk dalam program ini adalah Worms, Trojan Horse, Nukes, Email Bombs, dan lain-lain.
