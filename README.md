@@ -38,7 +38,7 @@ Membuat buku tentang cybercrime
    - Ananta
    - Eri
 
-**8. perlindungan hukum cybercrime [On Review]**
+8. [perlindungan hukum cybercrime](Perlindungan-Hukum-Cybercrime.md)
    - Tri
    - Bagus
    - Beby
