@@ -1,3 +1,64 @@
+# Kata Pengantar
+
+Puji syukur kehadirat Allah SWT atas limpahan rahmat dan karunianya sehingga buku yang membahas tentang Cybercrime Kelas TI-3B Tahun Ajar 2018 / 2019 telah dapat diselesaikan. Buku Cybercrime ini merupakan buku yang membahas mengenai semua hal yang berkaitan dengan kejahatan Cybercrime, mulai dari undang-undang yang membahas mengenai hukuman Cybercrime, kejahatan apa saja yang dapat dikategorikan dalam kejahatan Cybercrime, perlindungan terhadap korban/pelaku Cybercrime dan pembahasan lainnya mengenai Cybercrime.
+
+Terima kasih kami ucapkan kepada Ibu Widaningsih, S.Psi, SH., MH selaku dosen pengajar Hukum dan Etika TIK. Terima kasih juga kami sampaikan terhadap seluruh anggota kelas D4 Teknik Informatika 3B yang telah berkontribusi dalam penyusunan materi buku ini. Terima kasih kepada semua pihak yang telah ikut membantu dalam penyelesaian buku ini.
+
+Kami menyadari masih terdapat banyak kekurangan dalam buku ini, untuk itu kritik dan saran terhadap penyempurnaan buku ini sangat kami harapkan. Semoga buku ini dapat memberi manfaat dan menambah pengetahuan terhadap mahasiswa maupun masyarakat umum mengenai Cybercrime di Indonesia.
+
+Malang, April 2019
+
+Tim Editor
+
+# Daftar Isi
+
+1. **Pengertian Cybercrime**
+   1. Pengertian Cybercrime
+   2. Pengertian dalam Arti Sempit
+   3. Pengertian Menurut Para Ahli
+2. **Pengaturan Cybercrime**
+   1. Kitab Undang Undang Hukum Pidana
+   2. Undang-Undang No 19 Tahun 2002 tentang Hak Cipta
+   3. Undang-Undang No 36 Tahun 1999 tentang Telekomunikasi
+   4. Undang-Undang No 8 Tahun 1997 tentang Dokumen Perusahaan
+   5. Undang-Undang No 25 Tahun 2003 tentang Perubahan atas Undang-Undang No. 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang
+   6. Undang-Undang No 15 Tahun 2003 tentang Pemberantasan Tindak Pidana Terorisme
+   7. Undang-Undang No. 11 tahun 2008 diubah No. 19 Tahun 2016, tentang Informasi dan Transaksi Elektronik
+   8. Tindak Pidana Yang Berhubungan Dengan Aktivitas Ilegal
+   9. Tindak pidana yang berhubungan dengan gangguan (interferensi)
+3. **Jenis dan Metode Kejahatan Cybercrime**
+   1. Jenis-Jenis Cybercrime
+   2. Metode Kejahatan
+4. **Teori Tentang Cyber Crime Dan Cyber Law**
+   1. Definisi Cyber Crime
+   2. Karakteristik Cybercrime
+   3. Jenis-jenis Cybercrime
+   4. Metode Kejahatan Cybercrime
+   5. Cyber Law
+   6. Yurisdiksi hukum dan aspek-aspek terkait
+5. **Kasus Cybercrime**
+   1. Kasus Cybercrime di Indonesia
+   2. Kasus Cybercrime di Luar Negeri
+6. **Penegakan Hukum Cybercrime di Indonesia**
+   1. Pengertian Penegakan Hukum
+   2. Faktor Penegakan Hukum
+   3. Permasalahan Dalam Penyidikan Terhadap Cybercrime
+   4. Upaya-Upaya yang Dilakukan oleh Pihak Kepolisian
+   5. Penegakan Hukum Cybercrime Di Indonesia
+   6. Upaya-Upaya Penanggulangan Penyalahgunaan Penggunaan Komputer
+   7. Kesimpulan Penegakan Hukum Cybercrime di Indonesia
+7. **Perbandingan Cybercrime di Indonesia dengan Negara Lain**
+   1. Cybercrime di 20 Negara Berdasarkan Ranking dan Jenis Serangannya
+   2. 10 Ranking Negara di Asia Berdasarkan Tingkat Serangan Cybercrime (Dari yang Terburuk ke yang Terbaik)
+   3. Negara yang Memiliki Keamanan Siber Terendah di Dunia
+   4. Kesimpulan
+8. **Perlindungan Hukum Cybercrime**
+   1. Etika Hukum
+   2. Konsep Cybercrime
+   3. Perlindungan Hukum Terhadap Korban Tindak Pidana Cybercrime dalam Sistem Hukum Pidana Indonesia
+   4. Perlindungan Hukum Terhadap Korban Kejahatan cybercrime di Indonesia.
+   5. Contoh: Perlindungan Hukum Bagi Korban Pencurian Informasi Pribadi Melalui Dunia Cyber Ditinjau dari UU ITE
+
 # 1. Pengertian Cybercrime
 
 ## 1.1 Pengertian Cybercrime
@@ -615,7 +676,7 @@ Kasus ini terjadi pada awal tahun 2019, peretas ini meminta uang kepada korban d
 Baik Yuhronur maupun Dina, mengaku tidak tahu kalau ada akun dengan nama yang sama dan meminta uang. Mereka mengetahui hal ini ketika tiba-tiba banyak yang mengkonfirmasi dengan menghubungi ke nomor ponsel mereka secara langsung.
 Menurut Kasatreskrim Polres Lamongan, AKP Wahyu Norman Hidayat mengatakan modus yang dipakai oleh penipu adalah menggandakan akun yang sudah ada untuk digunakan sebagai alat penipuan.
 
-## 5.2 KASUS CYBERCRIME DI LUAR NEGERI
+## 5.2 Kasus Cybercrime di Luar Negeri
 
 ### 5.2.1 Cybercrime Pornografi John Zuccarini
 
@@ -1099,7 +1160,7 @@ Dengan adanya Undang-undang Nomor 11 Tahun 2008 diharapkan dapat membantu aparat
 
 Pentingnya perlindungan hukum bagi korban kejahatan siber, selain dalam kerangka mewujudkan negara hukum, hal ini penting dilakukan sebagai suatu tindakan preventif yang dilakukan oleh aparat penegak hukum dalam mengurangi ataupun mencegah terjadinya korban kejahatan dunia maya dan tentunya bukan hanya sebagai penampung laporan akan tetapi yang diharapkan adalah adanya tindakan nyata dari aparat penegak hukum sehingga masyarakat pengguna teknologi benar-benar merasa aman dalam melakaukan aktifitasnya di dunia maya.
 
-## 8.5 CONTOH: PERLINDUNGAN HUKUM BAGI KORBAN PENCURIAN INFORMASI PRIBADI MELALUI DUNIA CYBER DITINJAU DARI UU ITE
+## 8.5 Contoh: Perlindungan Hukum Bagi Korban Pencurian Informasi Pribadi Melalui Dunia Cyber Ditinjau dari UU ITE
 
 Saat ini belum ada perhatian terhadap korban kejahatan di dalam masyarakat yang merupakan tanda belum adanya keadilan dan kesejahteraan dari keadaan masyarakat tersebut. Dalam hal ini korban kejahatan diartikan sebagai seseorang yang telah menderita kerugian sebagai akibat suatu kejahatan dan atau rasa keadilannya secara langsung telah terganggu sebagai akibat pengalamannya sebagai target (sasaran) kejahatan.
 
