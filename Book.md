@@ -484,7 +484,7 @@ Secara garis besar ada lima topic dari _cyber law_ di setiap negara yaitu:
 - Regulation information content, sejauh mana perangkat hukum mengatur content yang dialirkan melalui internet.
 - Regulation on-line contact, tata karma dalam berkomunikasi dan berbisnis melalui internet termasuk perpajakan, retriksi eksport-import, kriminalitas dan yurisdiksi hukum.
 
-### 4.5.4 Komponen Dari Cyber law
+### 4.5.4 Komponen dari Cyber law
 
 - Pertama, tentang yurisdiksi hukum dan aspek-aspek terkait; komponen ini menganalisa dan menentukan keberlakuan hukum yang berlaku dan diterapkan di dalam dunia maya itu.
 - Kedua, tentang landasan penggunaan internet sebagai sarana untuk melakukan kebebasan berpendapat yang berhubungan dengan tanggung jawab pihak yang menyampaikan, aspek accountability, tangung jawab dalam memberikan jasa online dan penyedia jasa internet (internet provider), serta tanggung jawab hukum bagi penyedia jasa pendidikan melalui jaringan internet.
@@ -495,7 +495,7 @@ Secara garis besar ada lima topic dari _cyber law_ di setiap negara yaitu:
 - Ketujuh, tentang aspek hukum yang memberikan legalisasi atas internet
   sebagai bagian dari perdagangan atau bisnis usaha.
 
-### 4.5.5 Asas-asas Cyber Law
+### 4.5.5 Asas-Asas Cyber Law
 
 Dalam kaitannya dengan penentuan hukum yang berlaku dikenal beberapa asas yang biasa digunakan, yaitu :
 
@@ -516,7 +516,7 @@ Oleh karena itu, untuk ruang _cyber_ dibutuhkan suatu hukum baru yang menggunaka
 
 Perkembangan _Cyber law_ di Indonesia sendiri belum bisa dikatakan maju. Hal ini diakibatkan oleh belum meratanya pengguna internet di seluruh Indonesia. Berbeda dengan Amerika Serikat yang menggunakan telah internet untuk memfasilitasi seluruh aspek kehidupan mereka. Oleh karena itu, perkembangan hukum dunia maya di Amerika Serikat pun sudah sangat maju. Landasan fundamental di dalam aspek yuridis yang mengatur lalu lintas internet sebagai hukum khusus, di mana terdapat komponen utama yang meng-cover persoalan yang ada di dalam dunai maya tersebut, yaitu :
 
-## 4.6 Yurisdiksi hukum dan aspek-aspek terkait.
+## 4.6 Yurisdiksi Hukum dan Aspek-Aspek Terkait
 
 Komponen ini menganalisa dan menentukan keberlakuan hukum yang berlaku dan diterapkan di dalam dunia maya itu.
 Landasan penggunaan internet sebagai sarana untuk melakukan kebebasan berpendapat yang berhubungan dengan tanggung jawab pihak yang menyampaikan, aspek accountability, tangung jawab dalam memberikan jasa online dan penyedia jasa internet (internet provider), serta tanggung jawab hukum bagi penyedia jasa pendidikan melalui jaringan internet.
@@ -590,7 +590,7 @@ Tim Subdit IV CyberCrime Ditreskrimsus Polda Metro Jaya membekuk dua orang peret
 
 Kelompok ini sudah membobol ratusan website dalam dan luar negeri. "Mereka menjebol sistem pengamanan dari sistem elektronik milik orang lain. Kemudian mengancam atau menakut-nakuti dengan meminta sejumlah uang," ujar Kabid Humas Polda Metro Jaya, Komisaris Besar Polisi Argo Yuwono
 
-### 5.1.2 63 Penjahat CyberCrime Ditangkap Polri
+### 5.1.2 63 Penjahat Cybercrime Ditangkap Polri
 
 Sebanyak 63 warga negara asing (WNA) berasal dari China dan Taiwan ditangkap petugas Mabes Polri di Medan dan Denpasar, Bali. Sebanyak 63 itu merupakan penjahat di dunia maya atau _cybercrime_ tiba di Bandara Soekarno- Hatta, Tangerang, Kamis 20 Desember 2012 malam.
 
@@ -688,7 +688,7 @@ Tentu saja banyak anak di bawah umur yang terjebak oleh ulah Paman John ini. Akh
 
 Berdasarkan undang-undang Truth in Domain Names Act, tindakan Zuccarini digolongkan sebagai kejahatan karena memikat anak-anak ke dalam pornografi internet. Zuccarini bisa dijatuhi hukuman penjara hingga empat tahun dan denda sebesar 250.000 dolar AS.
 
-### 5.2.2 Menyusup ke dalam Sistem Jaringan Komputer Alta Vista Chavet
+### 5.2.2 Menyusup ke Dalam Sistem Jaringan Komputer Alta Vista Chavet
 
 Peristiwanya sudah cukup lama berselang, Juni 2002. Namun aksi yang dilakukan oleh Laurent Chavet ini baru diputuskan oleh Pengadilan Negeri California pada 2005 kemarin. Chavet didakwa bersalah karena menyusup ke dalam sistem jaringan komputer Alta Vista dan menimbulkan kerusakan di dalamnya. Lelaki berusia 30 tahun asal Kirkland ini telah menggunakan password dan username karyawan Alta Vista untuk mengakses jaringan komputer tempat ia pernah bekerja itu dari rumahnya di Mateo, California.
 
@@ -698,7 +698,7 @@ Chavet resmi didakwa bersalah pada 2 Juli 2004. Ia dikenai pasal yang mengatur i
 Putusan hukuman dilakukan pada 19 Agustus 2005 oleh Hakim Susan Illston dari San Fransisco. Chavet dikenai hukuman penjara lima tahun dan denda sebesar 250.000 dolar Amerika.
 Tertangkapnya Chavet adalah hasil investigasi bersama antara pihak Computer Hacking and Intellectual Property (CHIP) Unit of the United States Attorney’s Office dan Federal Bureau of Investigation (FBI).
 
-### 5.2.3 Pembuat Program Worm Anthony Scott Clark.
+### 5.2.3 Pembuat Program Worm Anthony Scott Clark
 
 Kasus paling gres yang baru saja diputus hakim Amerika Serikat adalah pembuat program worm Anthony Scott Clark. Pemuda asal Oregon ini masih berumur 21 tahun waktu didakwa oleh penuntut umum Kevin V. Ryan pada Desember 2005 lalu. Penyebabnya terkesan simpel, tetapi fatal akibatnya. Clark sepertinya iseng menyerang situs belanja online eBay dengan worm buatannya. Akibat ulahnya itu Clark berhasil menginfeksi begitu banyak komputer yang mengunjungi eBay pada bulan Juli dan Agustus 2003.
 
@@ -708,7 +708,7 @@ Selama kurun waktu itu pula Clark telah menghasilkan sekitar 20.000 bots yang di
 
 Atas tindakannya ini Clark dijerat dengan tuntutan penjara maksimum 10 tahun dan denda 250.000 dolar Amerika Serikat. Pada 3 April 2006 akan dijadwalkan ketokan palu terakhir oleh Hakim James Ware.
 
-### 5.2.4 2.4 Milyar Poundsterling Kerugian Akibat Kejahatan Berteknologi anggih.
+### 5.2.4 2.4 Milyar Poundsterling Kerugian Akibat Kejahatan Berteknologi Canggih
 
 Pada tahun 2004, kegiatan bisnis di Inggris sempat mengalami kerugian sekitar 2.4 milyar poundsterling akibat kejahatan yang dilakukan secara elektronik, demikian menurut pengakuan Unit Nasional Kejahatan Teknologi Tinggi (The National Hi-Tech Crime Unit).
 
@@ -1067,7 +1067,7 @@ Dalam penanganan perkara pidana kepentingan korban sudah saatnya untuk diberikan
 
 Perlindungan hukum bagi masyarakat sangatlah penting karena masyarakat baik kelompok maupun perorangan, dapat menjadi korban atau bahkan sebagai pelaku kejahatan. Perlindungan hukum korban kejahatan sebagai bagian dari perlindungan kepada masyarakat, seperti melalui pemberian restitusi dan kompensasi, pelayanan medis, dan bantuan hukum (Dikdik M. Arief Mansur & Elisatris Gultom, 2007: 31).
 
-## 8.4 Perlindungan Hukum Terhadap Korban Kejahatan cybercrime di Indonesia.
+## 8.4 Perlindungan Hukum Terhadap Korban Kejahatan Cybercrime di Indonesia.
 
 Kejahatan dunia maya atau _cybercrime_ adalah istilah yang mengacu kepada aktivitas kajahatan dengan komputer atau jaringan komputer yang menjadi alat, sasaran atau tempat terjadinya kejahatan.
 
