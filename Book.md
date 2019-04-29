@@ -321,9 +321,9 @@ Dalam klasifikasinya, _cybercrime_ dibagi berdasarkan aktivitas dan berdasarkan 
 5. _Destructive Devices_  
    Ini adalah perangkat lunak berisi virus dimana tujuannya adalah untuk merusak atau menghancurkan data-data di dalam komputer korban. Beberapa yang termasuk dalam program ini adalah Worms, Trojan Horse, Nukes, Email Bombs, dan lain-lain.
 
-# 4. Teori Tentang Cyber Crime Dan Cyber Law
+# 4. Teori Tentang Cybercrime Dan Cyber Law
 
-## 4.1 Defenisi Cyber Crime
+## 4.1 Definisi Cybercrime
 
 _Cybercrime_ atau biasa disebut dengan kejahatan dunia maya merupakan istilah yang mengacu kepada aktivitas kejahatan dengan komputer atau jaringan komputer menjadi alat, sasaran atau tempat terjadinya kejahatan. Termasuk ke dalam kejahatan dunia maya antara lain adalah penipuan lelang secara online, pemalsuan cek, penipuan kartu kredit/carding, confidence fraud, penipuan identitas, pornografi anak, dan lain-lain yang berkaitan dengan dunia _cyber_. Namun istilah ini juga digunakan untuk kegiatan kejahatan tradisional di mana komputer atau jaringan komputer digunakan untuk mempermudah atau memungkinkan kejahatan itu terjadi.
 
